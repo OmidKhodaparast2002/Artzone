@@ -1,5 +1,9 @@
 # Backend and Frontend Template
 
+## Collaborators
+- Kaisa Arumeel
+- Alexander Säfström
+
 Latest version: https://git.chalmers.se/courses/dit342/group-00-web
 
 This template refers to itself as `group-00-web`. In your project, use your group number in place of `00`.
